@@ -4,4 +4,4 @@
 
 * [Creating a basic Blockchain network using the IBM Blockchain Platform V2.0](https://github.com/IBM/Create-BlockchainNetwork-IBPV20)
 
-* [Emit events from Blockchain Platform V2.0]([https://github.com/IBM/auction-events)
+* [Emit events from Blockchain Platform V2.0](https://github.com/IBM/auction-events)
