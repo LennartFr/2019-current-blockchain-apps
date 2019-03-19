@@ -5,7 +5,7 @@
 
 1. [Write your first application: Fabcar](https://hyperledger-fabric.readthedocs.io/en/release-1.2/write_first_app.html)
 
-# Devdelopment tool: 
+# Development tool: 
 
 [Visual Studio Code with the IBM Blockchain Platform Addition](https://code.visualstudio.com) and the [IBM Blockchain Extension for Hyperledger Fabrc developers ](https://marketplace.visualstudio.com/items?itemName=IBMBlockchain.ibm-blockchain-platform) 
 
