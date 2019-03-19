@@ -1,1 +1,1 @@
-# 2019-current-blockchain-apps-
+# 2019-current-blockchain-apps
