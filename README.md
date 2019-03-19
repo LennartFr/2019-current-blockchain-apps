@@ -1,9 +1,9 @@
 
 # Getting started
 
-1. [Building your first network:] (https://hyperledger-fabric.readthedocs.io/en/release-1.2/build_network.html()
+1. [Building your first network](https://hyperledger-fabric.readthedocs.io/en/release-1.2/build_network.html()
 
-1. [Write your first application: Fabcar] (https://hyperledger-fabric.readthedocs.io/en/release-1.2/write_first_app.html)
+1. [Write your first application: Fabcar](https://hyperledger-fabric.readthedocs.io/en/release-1.2/write_first_app.html)
 
 # Devdelopment tool: 
 
