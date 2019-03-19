@@ -11,8 +11,6 @@
 
 # Current blockchain apps 2019:
 
-[Blockchain Code Patterns](https://developer.ibm.com/patterns/category/blockchain/)
-
 ## Your first Hyperledgder Fabric application:
 
 1. [Create a global finance blockchain application with IBM Blockchain Platform Extension for VS Code](https://github.com/IBM/global-financing-blockchain)
@@ -26,3 +24,7 @@
 1. [Create a decentralized energy network with IBM Blockchain Platform 2.0](https://developer.ibm.com/patterns/decentralized-energy-with-hyperledger-fabric-and-ibm-blockchain-saasv2-use-case-1/)
 
 1. [Hyperledger Fabric sample Fabcar on IBM Blockchain Platform 2.0](https://github.com/IBM/fabcar-blockchain-sample)
+
+# Where do we go from here?
+
+[Blockchain Code Patterns](https://developer.ibm.com/patterns/category/blockchain/)
