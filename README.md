@@ -1,5 +1,7 @@
 # 2019 current blockchain apps
 
+[Blockchain Code Patterns](https://developer.ibm.com/patterns/category/blockchain/)
+
 * [Create a global finance blockchain application with IBM Blockchain Platform Extension for VS Code](https://github.com/IBM/global-financing-blockchain)
 
 * [Creating a basic Blockchain network using the IBM Blockchain Platform V2.0](https://github.com/IBM/Create-BlockchainNetwork-IBPV20)
