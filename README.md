@@ -1,4 +1,6 @@
 
+<img src="Hyperledger-Fabric.png">
+
 # Getting started
 
 1. [Building your first network](https://hyperledger-fabric.readthedocs.io/en/release-1.2/build_network.html)
