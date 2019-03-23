@@ -21,6 +21,9 @@ Topic 7. Advanced Topics/Challenges for Smart Contracts
 
 Topic 8. Closing Remark
 
+# Whitelisting
+
+https://console.bluemix.net/registration/whitelist
 
 
 # Documentation
