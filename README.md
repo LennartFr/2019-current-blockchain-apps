@@ -3,7 +3,7 @@
 
 # Repo URL: [https://bit.ly/2FjuQ1d](https://bit.ly/2FjuQ1d)
 
-# [Introduction and Overview](intro.html)
+# [Introduction and Overview](intro.md)
 
 # [Documentation](documentation.md)
 
