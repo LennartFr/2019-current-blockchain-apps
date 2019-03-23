@@ -21,13 +21,16 @@
 
 ## Hyperledger Fabric applications with IPV20 in the IBM Cloud
 
-4. [Creating a basic Blockchain network using the IBM Blockchain Platform V2.0](https://github.com/IBM/Create-BlockchainNetwork-IBPV20)
+4. [Hyperledger Fabric sample Fabcar on IBM Blockchain Platform 2.0](https://github.com/IBM/fabcar-blockchain-sample)
 
-5. [Emit events from Blockchain Platform V2.0](https://github.com/IBM/auction-events)
+#Streched Goals:
 
-6. [Create a decentralized energy network with IBM Blockchain Platform 2.0](https://developer.ibm.com/patterns/decentralized-energy-with-hyperledger-fabric-and-ibm-blockchain-saasv2-use-case-1/)
+5. [Creating a basic Blockchain network using the IBM Blockchain Platform V2.0](https://github.com/IBM/Create-BlockchainNetwork-IBPV20)
 
-7. [Hyperledger Fabric sample Fabcar on IBM Blockchain Platform 2.0](https://github.com/IBM/fabcar-blockchain-sample)
+6. [Emit events from Blockchain Platform V2.0](https://github.com/IBM/auction-events)
+
+7. [Create a decentralized energy network with IBM Blockchain Platform 2.0](https://developer.ibm.com/patterns/decentralized-energy-with-hyperledger-fabric-and-ibm-blockchain-saasv2-use-case-1/)
+
 
 # Where do we go from here?
 
