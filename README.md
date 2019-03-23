@@ -5,7 +5,7 @@
 
 This repo consists of a number of IBM code patterns focused on Hyperledger Fabric and IBM Blockchain.
 
-They are being used for 2-hour coding events using a chart deck provided outside of this repo.
+They are being used for two-hour coding events using a chart deck provided outside of this repo.
 
 Before the start of the coding event, the participants are encouraged to install the pre-requisites that are listed at the beginning of each exercise. Please note that MacBook and Ubuntu are the easiest operating systems to use.
 
