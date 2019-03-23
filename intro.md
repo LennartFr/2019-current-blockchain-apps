@@ -1,5 +1,7 @@
 # Intro and Overview
 
+## Covered by external presentaton
+
 Topic 1. Hyperledger Fabric and IBM Blockchain Platform Introduction
 
 Topic 2. The Hyperledger Fabric programming model.
