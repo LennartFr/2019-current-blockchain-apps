@@ -3,7 +3,7 @@
 
 # Repo URL: [https://bit.ly/2FjuQ1d](https://bit.ly/2FjuQ1d)
 
-# Agenda
+# Introduction and Overview
 
 Topic 1. Hyperledger Fabric and IBM Blockchain Platform Introduction
 
