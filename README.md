@@ -5,11 +5,6 @@
 
 # [Introduction and Overview](intro.html)
 
-# Note on Whitelisting
-
-https://console.bluemix.net/registration/whitelist
-
-
 # Documentation
 
 [ReadtheDocs](https://hyperledger-fabric.readthedocs.io/en/release-1.4/)
@@ -47,3 +42,7 @@ https://console.bluemix.net/registration/whitelist
 # Where do we go from here?
 
 [Blockchain Code Patterns](https://developer.ibm.com/patterns/category/blockchain/)
+
+
+# Note on Whitelisting
+https://console.bluemix.net/registration/whitelist
