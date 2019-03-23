@@ -23,7 +23,7 @@
 
 4. [Hyperledger Fabric sample Fabcar on IBM Blockchain Platform 2.0](https://github.com/IBM/fabcar-blockchain-sample)
 
-#Streched Goals:
+#Strech Goals:
 
 5. [Creating a basic Blockchain network using the IBM Blockchain Platform V2.0](https://github.com/IBM/Create-BlockchainNetwork-IBPV20)
 
