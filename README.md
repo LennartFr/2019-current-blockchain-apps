@@ -5,7 +5,7 @@
 
 # [Introduction and Overview](intro.html)
 
-# Whitelisting
+# Note on Whitelisting
 
 https://console.bluemix.net/registration/whitelist
 
