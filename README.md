@@ -3,6 +3,8 @@
 
 # Repo URL: [https://bit.ly/2FjuQ1d](https://bit.ly/2FjuQ1d)
 
+# Programming Hyperledger
+
 This repo consists of a number of IBM code patterns focused on Hyperledger Fabric and IBM Blockchain.
 
 They are being used for two-hour coding events using a chart deck provided outside of this repo.
