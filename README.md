@@ -7,6 +7,8 @@
 
 # Programming Hyperledger
 
+[CWriting Smart Contracts in NodeJS:](https://github.com/LennartFr/fabcar-blockchain-sample/tree/master/contract/lib/fabcar.js)
+
 This repo consists of a number of IBM code patterns focused on Hyperledger Fabric and IBM Blockchain.
 
 They are being used for two-hour coding events using a chart deck provided outside of this repo.
