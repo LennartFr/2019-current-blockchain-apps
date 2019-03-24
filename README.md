@@ -3,6 +3,8 @@
 
 # Repo URL: [https://bit.ly/2FjuQ1d](https://bit.ly/2FjuQ1d)
 
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+
 # Programming Hyperledger
 
 This repo consists of a number of IBM code patterns focused on Hyperledger Fabric and IBM Blockchain.
@@ -20,6 +22,8 @@ For a 2-hour workshop the second, third and fourth exercises should be focused o
 # Development tool: 
 
 [Visual Studio Code with the IBM Blockchain Platform Addition](https://code.visualstudio.com) and the [IBM Blockchain Extension for Hyperledger Fabrc developers ](https://marketplace.visualstudio.com/items?itemName=IBMBlockchain.ibm-blockchain-platform) 
+
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 # Exercises
 
@@ -41,6 +45,7 @@ For a 2-hour workshop the second, third and fourth exercises should be focused o
 
 7. [Create a decentralized energy network with IBM Blockchain Platform 2.0](https://developer.ibm.com/patterns/decentralized-energy-with-hyperledger-fabric-and-ibm-blockchain-saasv2-use-case-1/)
 
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 # Where do we go from here?
 
