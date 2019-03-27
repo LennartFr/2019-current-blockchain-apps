@@ -3,11 +3,11 @@
 
 # Repo URL: [https://bit.ly/2FjuQ1d](https://bit.ly/2FjuQ1d)
 
-# IBM Cloud signup Women who Code: [https://ibm.biz/Bd2UgZ](https://ibm.biz/Bd2UgZ)
+## IBM Cloud signup Women who Code: [https://ibm.biz/Bd2UgZ](https://ibm.biz/Bd2UgZ)
 
-# Call for Code 2019: [https://callforcode.org](https://callforcode.org)
+## Call for Code 2019: [https://callforcode.org](https://callforcode.org)
 
-# IBM Support for Startups: [https://developer.ibm.com/startups/](https://developer.ibm.com/startups/)
+## IBM Support for Startups: [https://developer.ibm.com/startups/](https://developer.ibm.com/startups/)
 
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
