@@ -12,6 +12,8 @@
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
+IBM Backs New US Dollar-Pegged Stablecoin That Runs on Stellar Network
+
 # Programming Hyperledger
 
 [Writing Smart Contracts in NodeJS:](https://github.com/LennartFr/fabcar-blockchain-sample/tree/master/contract/lib/fabcar.js)
