@@ -8,6 +8,6 @@
 
 [Deploy an asset-transfer app using Blockchain](https://developer.ibm.com/code/wp-content/uploads/sites/118/2017/09/Marbles_BlockChain_Tech_Talk1.pdf)
 
-[An introduction to Blockchain and Hyperledger](https://www.slideshare.net/LennartF/wwc-developing-hyperledger-applications-v2)
+[An introduction to Blockchain and Hyperledger](https://www.slideshare.net/LennartF/wwc-developing-hyperledger-applications-v4-138649228)
 
 
