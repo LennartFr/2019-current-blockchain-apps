@@ -51,11 +51,11 @@ For a 2-hour workshop the second, third and fourth exercises should be focused o
 
 7. [Create a decentralized energy network with IBM Blockchain Platform 2.0](https://developer.ibm.com/patterns/decentralized-energy-with-hyperledger-fabric-and-ibm-blockchain-saasv2-use-case-1/)
 
-8. [Store private healthcare data off-chain and manage medical data using blockchain](https://github.com/IBM/Medical-Blockchain)
+8. [Store private healthcare data off-chain and manage medical data using blockchain IBP 2.0](https://github.com/IBM/Medical-Blockchain)
 
 9. [Explore the querying capability of Hyperledger Fabric 1.4](https://github.com/IBM/queryPattern)
 
-10. [Create a fair trade supply chain network](https://developer.ibm.com/patterns/coffee-supply-chain-network-hyperledger-fabric-blockchain-2/)
+10. [Create a fair trade supply chain network IBP 2.0](https://developer.ibm.com/patterns/coffee-supply-chain-network-hyperledger-fabric-blockchain-2/)
 
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
