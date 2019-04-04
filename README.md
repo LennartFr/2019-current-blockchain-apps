@@ -9,10 +9,7 @@
 
 ## IBM Support for Startups: [https://developer.ibm.com/startups/](https://developer.ibm.com/startups/)
 
-
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
-
-## IBM Backs New US Dollar-Pegged Stablecoin That Runs on Stellar Network
 
 # Programming Hyperledger
 
@@ -38,9 +35,9 @@ For a 2-hour workshop the second, third and fourth exercises should be focused o
 
 # Exercises
 
-1. SKIP [Building your first network](https://hyperledger-fabric.readthedocs.io/en/release-1.2/build_network.html)
+1. [Building your first network](https://hyperledger-fabric.readthedocs.io/en/release-1.2/build_network.html)
 
-2. SKIP [Write your first application: Fabcar](https://hyperledger-fabric.readthedocs.io/en/release-1.2/write_first_app.html)
+2. [Write your first application: Fabcar](https://hyperledger-fabric.readthedocs.io/en/release-1.2/write_first_app.html)
 
 3a. [Hyperledger Fabric sample FabCar on local network](https://github.com/raheelzubairy/fabcar-blockchain-sample/blob/master/docs/run-local.md)
 
