@@ -49,7 +49,7 @@ For a 2-hour workshop the second, third and fourth exercises should be focused o
 
 6. -> [Emit events from Blockchain Platform V2.0](https://github.com/IBM/auction-events)
 
-7. [Create a decentralized energy network with IBM Blockchain Platform 2.0](https://developer.ibm.com/patterns/decentralized-energy-with-hyperledger-fabric-and-ibm-blockchain-saasv2-use-case-1/)
+7. -> [Create a decentralized energy network with IBM Blockchain Platform 2.0](https://developer.ibm.com/patterns/decentralized-energy-with-hyperledger-fabric-and-ibm-blockchain-saasv2-use-case-1/)
 
 8. [Store private healthcare data off-chain and manage medical data using blockchain IBP 2.0](https://github.com/IBM/Medical-Blockchain)
 
