@@ -10,5 +10,5 @@
 
 [An introduction to Blockchain and Hyperledger](https://www.slideshare.net/LennartF/wwc-developing-hyperledger-applications-v4-138649228)
 
-[An introduction to Blockchain and Hyperledger 2\(https://www.slideshare.net/LennartF/an-introduction-to-blockchain-and-hyperledger-v-ru]
+[An introduction to Blockchain and Hyperledger 2](https://www.slideshare.net/LennartF/an-introduction-to-blockchain-and-hyperledger-v-ru]
 
