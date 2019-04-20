@@ -41,6 +41,8 @@ For a 2-hour workshop the second, third and fourth exercises should be focused o
 
 3a.-> [Hyperledger Fabric sample FabCar on local network](https://github.com/raheelzubairy/fabcar-blockchain-sample/blob/master/docs/run-local.md)
 
+3a1->[SmartContractTrading-wFabric1-4-VSCodeExt](https://github.com/IBM/SmartContractTrading-wFabric1-4-VSCodeExt)
+
 3b. [Hyperledger Fabric sample Fabcar on IBM Blockchain Platform 2.0](https://github.com/IBM/fabcar-blockchain-sample)
 
 4.-> [Create a global finance blockchain application with IBM Blockchain Platform Extension for VS Code](https://github.com/IBM/global-financing-blockchain)
