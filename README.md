@@ -3,7 +3,7 @@
 
 # Repo URL: [https://bit.ly/2FjuQ1d](https://bit.ly/2FjuQ1d)
 
-## IBM Cloud signup: [https://ibm.biz/Bd2UgZ](https://ibm.biz/Bd2UgZ)
+## IBM Cloud signup: [https://ibm.biz/BdzESQ](https://ibm.biz/BdzESQ)
 
 ## Call for Code 2019: [https://callforcode.org](https://callforcode.org)
 
