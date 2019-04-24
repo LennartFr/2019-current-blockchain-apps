@@ -25,7 +25,7 @@ For a 2-hour workshop the second, third and fourth exercises should be focused o
 
 # [Introduction and Overview](intro.md)
 
-# [Documentation](documentation.md)
+# [Presentations](presentations.md)
 
 # Development tool: 
 
