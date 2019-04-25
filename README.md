@@ -33,6 +33,8 @@ For a 2-hour workshop the second, third and fourth exercises should be focused o
 
 # Exercises
 
+## Local execution
+
 1. [Building your first network](https://hyperledger-fabric.readthedocs.io/en/release-1.2/build_network.html)
 
 2. [Write your first application: Fabcar](https://hyperledger-fabric.readthedocs.io/en/release-1.2/write_first_app.html)
@@ -44,6 +46,8 @@ For a 2-hour workshop the second, third and fourth exercises should be focused o
 3b. [Hyperledger Fabric sample Fabcar on IBM Blockchain Platform 2.0](https://github.com/IBM/fabcar-blockchain-sample)
 
 4.-> [Create a global finance blockchain application with IBM Blockchain Platform Extension for VS Code](https://github.com/IBM/global-financing-blockchain)
+
+## IBM Blockchain 2.0
 
 5. [Creating a basic Blockchain network using the IBM Blockchain Platform V2.0](https://github.com/IBM/Create-BlockchainNetwork-IBPV20)
 
