@@ -31,6 +31,11 @@ For a 2-hour workshop the second, third and fourth exercises should be focused o
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
+# Demo
+
+[https://www.ibm.com/thought-leadership/blockchainbean/](https://www.ibm.com/thought-leadership/blockchainbean/)
+
+
 # Exercises
 
 ## Local execution
