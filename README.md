@@ -23,8 +23,6 @@ Before the start of the coding event, the participants are encouraged to install
 
 For a 2-hour workshop the second, third and fourth exercises should be focused on. While the fifth, six and seventh can also be used for longer workshops. 
 
-# [Introduction and Overview](intro.md)
-
 # [Presentations](Presentations.md)
 
 # Development tool: 
