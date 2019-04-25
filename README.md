@@ -43,11 +43,13 @@ For a 2-hour workshop the second, third and fourth exercises should be focused o
 
 3a1->[SmartContractTrading-wFabric1-4-VSCodeExt](https://github.com/IBM/SmartContractTrading-wFabric1-4-VSCodeExt)
 
-3b. [Hyperledger Fabric sample Fabcar on IBM Blockchain Platform 2.0](https://github.com/IBM/fabcar-blockchain-sample)
-
 4.-> [Create a global finance blockchain application with IBM Blockchain Platform Extension for VS Code](https://github.com/IBM/global-financing-blockchain)
 
+4a.-> [Explore the querying capability of Hyperledger Fabric 1.4](https://github.com/IBM/queryPattern)
+
 ## IBM Blockchain 2.0
+
+4b. [Hyperledger Fabric sample Fabcar on IBM Blockchain Platform 2.0](https://github.com/IBM/fabcar-blockchain-sample)
 
 5. [Creating a basic Blockchain network using the IBM Blockchain Platform V2.0](https://github.com/IBM/Create-BlockchainNetwork-IBPV20)
 
@@ -57,10 +59,7 @@ For a 2-hour workshop the second, third and fourth exercises should be focused o
 
 8. [Store private healthcare data off-chain and manage medical data using blockchain IBP 2.0](https://github.com/IBM/Medical-Blockchain)
 
-9. [Explore the querying capability of Hyperledger Fabric 1.4](https://github.com/IBM/queryPattern)
-
-10. [Create a fair trade supply chain network IBP 2.0](https://developer.ibm.com/patterns/coffee-supply-chain-network-hyperledger-fabric-blockchain-2/)
-
+9. [Create a fair trade supply chain network IBP 2.0](https://developer.ibm.com/patterns/coffee-supply-chain-network-hyperledger-fabric-blockchain-2/)
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
