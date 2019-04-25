@@ -33,6 +33,7 @@ For a 2-hour workshop the second, third and fourth exercises should be focused o
 
 # [Methodology:](https://www.ibm.com/blogs/blockchain/category/blockchain-on-cloud/blockchain-cloud-garage/)
 
+# [Bockchain Use Cases](https://www.ibm.com/blockchain/use-cases/)
 
 # Demo
 
