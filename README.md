@@ -33,7 +33,7 @@ For a 2-hour workshop the second, third and fourth exercises should be focused o
 
 # Demo
 
-[https://www.ibm.com/thought-leadership/blockchainbean/](https://www.ibm.com/thought-leadership/blockchainbean/)
+[Blockchain Bean](https://www.ibm.com/thought-leadership/blockchainbean/)
 
 
 # Exercises
