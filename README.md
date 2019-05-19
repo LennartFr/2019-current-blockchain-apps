@@ -37,7 +37,7 @@ For a 2-hour workshop the second, third and fourth exercises should be focused o
 
 # Demo
 
-[Suppkly Chain: Food Trust](https://www.ibm.com/blockchain/solutions/food-trust)
+[Supply Chain: Food Trust](https://www.ibm.com/blockchain/solutions/food-trust)
 
 [Supply Chain: Blockchain Bean](https://www.ibm.com/thought-leadership/blockchainbean/)
 
@@ -57,6 +57,10 @@ For a 2-hour workshop the second, third and fourth exercises should be focused o
 4.-> [Create a global finance blockchain application with IBM Blockchain Platform Extension for VS Code](https://github.com/IBM/global-financing-blockchain)
 
 4a.-> [Explore the querying capability of Hyperledger Fabric 1.4](https://github.com/IBM/queryPattern)
+
+[Create a fair trade supply network with Hyperledger Fabric 1.4 (Local](https://github.com/IBM/blockchainbean2/blob/master/docs/run-local.md]
+
+?
 
 ## IBM Blockchain 2.0
 
